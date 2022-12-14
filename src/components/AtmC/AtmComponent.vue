@@ -10,7 +10,7 @@
             {{ state.cardholder_number }}
           </p>
           <div class="card-details">
-            <p class="card-holder" data-placeholder="jane appleased">
+            <p class="card-holder" style="padding-left: 10px" data-placeholder="Fullname">
               {{ state.cardholder_name }}
             </p>
             <p class="exp-date">
